@@ -36,7 +36,7 @@ ex){"손흥민":"축구","류현진":"야구"}
 # print(height["준영"])
 # print(height.get("준영"))
 for i in range(10):
-    fruits={"o":60,"banana":40,"apple":30}
+    fruits={"수박":40,"딸기":50,"용과":30}
     fruit=input("This in fruit store. what do you want: ")
     if fruit in fruits:
         print(f"we have {fruit},{fruits[fruit]} left")
